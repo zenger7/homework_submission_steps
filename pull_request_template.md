@@ -1,8 +1,8 @@
-#### Your Name:
+#### Your Name: Nawaf Almansour
 
 ---
 
-##### How difficult did you find this (0 - 10)? (0 very easy, 10 very difficult)
+##### How difficult did you find this (0 - 10)? 0  (0 very easy, 10 very difficult)
 ##### How much of this did you complete? (0-10)
 ##### How long did it take?
 ##### Was there anything that you struggled with?  If so, what?
